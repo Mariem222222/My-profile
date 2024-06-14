@@ -1,7 +1,7 @@
 # My-profile
 # Welcome to Mariem222222's profile! 👋
 
-![Profile Banner](https://example.com/banner.png) <!-- Replace with your image URL -->
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Profile+Banner) 
 
 ## Always learn
 

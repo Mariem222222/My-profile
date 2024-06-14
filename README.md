@@ -1,7 +1,7 @@
 # My-profile
 # Welcome to Mariem222222's profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Profile+Banner) 
+![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) 
 
 ## Always learn
 
@@ -12,7 +12,7 @@
 
 
 ## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][(https://www.linkedin.com/in/maryem-aloui-706877216/)]) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alouimaryem354@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryem-aloui-706877216/) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alouimaryem354@gmail.com)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

@@ -12,7 +12,7 @@
 
 
 ## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maryem-aloui-706877216/)) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alouimaryem354@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][(https://www.linkedin.com/in/maryem-aloui-706877216/)]) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alouimaryem354@gmail.com)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

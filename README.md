@@ -1,5 +1,5 @@
 # My-profile
-# Welcome! ![git](https://github.com/Mariem222222/My-profile/assets/166764883/6261913a-d944-4e64-8997-988b991561a8)
+# Welcome!
 
 
 ![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) 

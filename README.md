@@ -1,7 +1,8 @@
 # My-profile
-# Welcome to Mariem222222's profile! 👋
+# Welcome to Mariem222222's profile! ![git](https://github.com/Mariem222222/My-profile/assets/166764883/6261913a-d944-4e64-8997-988b991561a8)
 
-![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) (https://private-user-images.githubusercontent.com/109148841/267773277-f8e15e61-9b66-41c0-ac10-eec6d44fbc76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzc5MzMsIm5iZiI6MTcxODM3NzYzMywicGF0aCI6Ii8xMDkxNDg4NDEvMjY3NzczMjc3LWY4ZTE1ZTYxLTliNjYtNDFjMC1hYzEwLWVlYzZkNDRmYmM3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNFQxNTA3MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNmE0NzE5NGI4ODM4YmE5YzcxZGYyMDZkNjBiMzRjMGUzN2E3ZjNjMDUwY2M3YjNkY2FhMGVjNjNiZmZkMjQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.d7gyJvyGohPun45X9ueyEFu4vyZUtZDPR8yfZRyA6OM) 
+
+![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) 
 
 ## Always learn
 

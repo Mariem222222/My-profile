@@ -5,9 +5,8 @@
 ![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) 
 
 ## Always learn
-
-- 👩‍💻 I'm a Software Engineering Student 
-- 📚 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+ 
+- 📚 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with React, HTML and anything related to web development.
 - ☕ Fun Fact: I love books and enjoy spending my free time reading and discovering new literature.
 

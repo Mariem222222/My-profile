@@ -1,6 +1,7 @@
 # My-profile
 # Welcome!
 Hi, I'm **Mariem Aloui** – a passionate developer and AI enthusiast with a strong foundation in web development, data science, and cybersecurity practices. I enjoy building intelligent systems, intuitive UIs, and exploring web vulnerabilities.
+
 ![Profile Banner](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455) 
 
 ## Always learn
